@@ -13,6 +13,10 @@ Phaser utilise à la fois un moteur de rendu Canvas et WebGL en interne et peut 
 
 Les jeux peuvent être déployés sur iOS, Android et sur des applications de bureau natives via des outils tiers tels qu'Apache Cordova et phonegap . 
 
+Idée de départ
+--------------
+Il s'agit juste d'un Side Project pour s'amuser et se détendre, ou l'idée de base etait de coder un petit jeu de plateforme dans le style Hocus Pocus, mais uniquement avec des logos de marques qui concernent le développemeent web (wordpress, chrome, safari, vscode, Ruby, Internet explorer, React, PHP, Opera, Jquery, Sublime text, MySQL, .......).
+
 Tester
 ------
 Vous pouvez tester ce jeu en cliquant [ici](https://mariowebapp.herokuapp.com/)
